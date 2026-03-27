@@ -1,0 +1,500 @@
+[2026-03-27 09:21:26] [ERROR] [notification-service] [thread-20] User user_2453 authenticated
+[2026-03-27 09:21:31] [WARN] [api-gateway] [thread-1] Connection pool size: 1
+[2026-03-27 09:21:36] [INFO] [auth-service] [thread-11] Cache hit for key cache:76
+[2026-03-27 09:21:41] [INFO] [api-gateway] [thread-12] DB query executed in 4321ms
+[2026-03-27 09:21:46] [INFO] [api-gateway] [thread-13] Request processed successfully in 7419ms
+[2026-03-27 09:21:51] [ERROR] [notification-service] [thread-15] User user_9967 authenticated
+[2026-03-27 09:21:56] [WARN] [notification-service] [thread-9] DB query executed in 9109ms
+[2026-03-27 09:22:01] [DEBUG] [db-connector] [thread-6] User user_5960 authenticated
+[2026-03-27 09:22:06] [INFO] [db-connector] [thread-9] Connection pool size: 13
+[2026-03-27 09:22:11] [INFO] [api-gateway] [thread-18] Response sent with status 200
+[2026-03-27 09:22:16] [INFO] [db-connector] [thread-2] DB query executed in 3770ms
+[2026-03-27 09:22:21] [INFO] [auth-service] [thread-6] Response sent with status 200
+[2026-03-27 09:22:26] [DEBUG] [auth-service] [thread-17] User user_8661 authenticated
+[2026-03-27 09:22:31] [ERROR] [payment-service] [thread-17] Heartbeat OK
+[2026-03-27 09:22:36] [ERROR] [auth-service] [thread-1] Response sent with status 200
+[2026-03-27 09:22:41] [INFO] [db-connector] [thread-15] DB query executed in 1908ms
+[2026-03-27 09:22:46] [INFO] [db-connector] [thread-7] Connection pool size: 18
+[2026-03-27 09:22:51] [ERROR] [db-connector] [thread-16] Heartbeat OK
+[2026-03-27 09:22:56] [WARN] [notification-service] [thread-4] Request processed successfully in 5427ms
+[2026-03-27 09:23:01] [ERROR] [payment-service] [thread-17] Response sent with status 200
+[2026-03-27 09:23:06] [INFO] [notification-service] [thread-5] Heartbeat OK
+[2026-03-27 09:23:11] [DEBUG] [auth-service] [thread-18] Scheduled job completed
+[2026-03-27 09:23:16] [INFO] [api-gateway] [thread-17] Response sent with status 200
+[2026-03-27 09:23:21] [DEBUG] [api-gateway] [thread-11] Response sent with status 200
+[2026-03-27 09:23:26] [ERROR] [db-connector] [thread-4] DB query executed in 522ms
+[2026-03-27 09:23:31] [INFO] [notification-service] [thread-19] Cache hit for key cache:20
+[2026-03-27 09:23:36] [DEBUG] [payment-service] [thread-15] Response sent with status 200
+[2026-03-27 09:23:41] [INFO] [payment-service] [thread-18] Scheduled job completed
+[2026-03-27 09:23:46] [WARN] [auth-service] [thread-5] Scheduled job completed
+[2026-03-27 09:23:51] [DEBUG] [notification-service] [thread-14] Response sent with status 200
+[2026-03-27 09:23:56] [INFO] [notification-service] [thread-4] Request processed successfully in 7090ms
+[2026-03-27 09:24:01] [INFO] [api-gateway] [thread-1] Cache hit for key cache:26
+[2026-03-27 09:24:06] [DEBUG] [api-gateway] [thread-15] Response sent with status 200
+[2026-03-27 09:24:11] [WARN] [db-connector] [thread-3] Response sent with status 200
+[2026-03-27 09:24:16] [INFO] [api-gateway] [thread-1] Cache hit for key cache:63
+[2026-03-27 09:24:21] [DEBUG] [payment-service] [thread-12] Response sent with status 200
+[2026-03-27 09:24:26] [INFO] [auth-service] [thread-9] DB query executed in 7514ms
+[2026-03-27 09:24:31] [INFO] [db-connector] [thread-18] Request processed successfully in 6240ms
+[2026-03-27 09:24:36] [DEBUG] [auth-service] [thread-7] Response sent with status 200
+[2026-03-27 09:24:41] [ERROR] [api-gateway] [thread-2] User user_3891 authenticated
+[2026-03-27 09:24:46] [INFO] [api-gateway] [thread-19] Scheduled job completed
+[2026-03-27 09:24:51] [INFO] [payment-service] [thread-9] Connection pool size: 18
+[2026-03-27 09:24:56] [DEBUG] [auth-service] [thread-18] Request processed successfully in 4192ms
+[2026-03-27 09:25:01] [ERROR] [payment-service] [thread-17] User user_5569 authenticated
+[2026-03-27 09:25:06] [INFO] [payment-service] [thread-8] Request processed successfully in 667ms
+[2026-03-27 09:25:11] [DEBUG] [api-gateway] [thread-6] DB query executed in 6905ms
+[2026-03-27 09:25:16] [DEBUG] [payment-service] [thread-13] Scheduled job completed
+[2026-03-27 09:25:21] [DEBUG] [auth-service] [thread-10] Connection pool size: 2
+[2026-03-27 09:25:26] [WARN] [auth-service] [thread-7] Response sent with status 200
+[2026-03-27 09:25:31] [INFO] [api-gateway] [thread-10] DB query executed in 9282ms
+[2026-03-27 09:25:36] [INFO] [db-connector] [thread-4] Scheduled job completed
+[2026-03-27 09:25:41] [DEBUG] [api-gateway] [thread-14] Response sent with status 200
+[2026-03-27 09:25:46] [INFO] [payment-service] [thread-19] Cache hit for key cache:50
+[2026-03-27 09:25:51] [WARN] [notification-service] [thread-5] Heartbeat OK
+[2026-03-27 09:25:56] [DEBUG] [notification-service] [thread-1] Scheduled job completed
+[2026-03-27 09:26:01] [INFO] [payment-service] [thread-16] DB query executed in 6919ms
+[2026-03-27 09:26:06] [INFO] [payment-service] [thread-5] DB query executed in 5123ms
+[2026-03-27 09:26:11] [DEBUG] [auth-service] [thread-10] Cache hit for key cache:67
+[2026-03-27 09:26:16] [DEBUG] [api-gateway] [thread-6] DB query executed in 2548ms
+[2026-03-27 09:26:21] [INFO] [auth-service] [thread-8] Heartbeat OK
+[2026-03-27 09:26:26] [INFO] [payment-service] [thread-13] Connection pool size: 14
+[2026-03-27 09:26:31] [WARN] [api-gateway] [thread-18] Response sent with status 200
+[2026-03-27 09:26:36] [WARN] [db-connector] [thread-16] DB query executed in 3861ms
+[2026-03-27 09:26:41] [DEBUG] [notification-service] [thread-2] Connection pool size: 33
+[2026-03-27 09:26:46] [INFO] [db-connector] [thread-2] Response sent with status 200
+[2026-03-27 09:26:51] [INFO] [notification-service] [thread-12] Connection pool size: 38
+[2026-03-27 09:26:56] [INFO] [payment-service] [thread-8] Response sent with status 200
+[2026-03-27 09:27:01] [INFO] [notification-service] [thread-16] Cache hit for key cache:46
+[2026-03-27 09:27:06] [DEBUG] [payment-service] [thread-6] Scheduled job completed
+[2026-03-27 09:27:11] [INFO] [payment-service] [thread-19] User user_7448 authenticated
+[2026-03-27 09:27:16] [DEBUG] [auth-service] [thread-16] Cache hit for key cache:63
+[2026-03-27 09:27:21] [INFO] [db-connector] [thread-18] Connection pool size: 42
+[2026-03-27 09:27:26] [INFO] [auth-service] [thread-7] Request processed successfully in 9895ms
+[2026-03-27 09:27:31] [INFO] [notification-service] [thread-12] User user_6992 authenticated
+[2026-03-27 09:27:36] [INFO] [payment-service] [thread-13] Connection pool size: 18
+[2026-03-27 09:27:41] [INFO] [payment-service] [thread-17] Response sent with status 200
+[2026-03-27 09:27:46] [DEBUG] [db-connector] [thread-11] Heartbeat OK
+[2026-03-27 09:27:51] [DEBUG] [notification-service] [thread-17] DB query executed in 9176ms
+[2026-03-27 09:27:56] [DEBUG] [payment-service] [thread-17] Request processed successfully in 6259ms
+[2026-03-27 09:28:01] [INFO] [auth-service] [thread-12] Heartbeat OK
+[2026-03-27 09:28:06] [WARN] [auth-service] [thread-3] DB query executed in 6212ms
+[2026-03-27 09:28:11] [ERROR] [db-connector] [thread-2] Connection pool size: 46
+[2026-03-27 09:28:16] [INFO] [notification-service] [thread-4] Request processed successfully in 9360ms
+[2026-03-27 09:28:21] [INFO] [db-connector] [thread-15] User user_8721 authenticated
+[2026-03-27 09:28:26] [ERROR] [notification-service] [thread-2] Connection pool size: 43
+[2026-03-27 09:28:31] [INFO] [auth-service] [thread-15] User user_3274 authenticated
+[2026-03-27 09:28:36] [INFO] [payment-service] [thread-1] User user_7637 authenticated
+[2026-03-27 09:28:41] [DEBUG] [api-gateway] [thread-17] Cache hit for key cache:87
+[2026-03-27 09:28:46] [ERROR] [api-gateway] [thread-15] Connection pool size: 45
+[2026-03-27 09:28:51] [DEBUG] [auth-service] [thread-19] Cache hit for key cache:3
+[2026-03-27 09:28:56] [INFO] [payment-service] [thread-18] DB query executed in 4099ms
+[2026-03-27 09:29:01] [INFO] [auth-service] [thread-19] Cache hit for key cache:11
+[2026-03-27 09:29:06] [INFO] [db-connector] [thread-17] Connection pool size: 47
+[2026-03-27 09:29:11] [WARN] [notification-service] [thread-3] DB query executed in 5687ms
+[2026-03-27 09:29:16] [INFO] [api-gateway] [thread-20] User user_9390 authenticated
+[2026-03-27 09:29:21] [INFO] [payment-service] [thread-5] DB query executed in 486ms
+[2026-03-27 09:29:26] [INFO] [notification-service] [thread-18] Heartbeat OK
+[2026-03-27 09:29:31] [ERROR] [payment-service] [thread-19] User user_7197 authenticated
+[2026-03-27 09:29:36] [INFO] [api-gateway] [thread-13] User user_5317 authenticated
+[2026-03-27 09:29:41] [DEBUG] [notification-service] [thread-10] Scheduled job completed
+[2026-03-27 09:29:46] [INFO] [notification-service] [thread-6] Cache hit for key cache:29
+[2026-03-27 09:29:51] [INFO] [notification-service] [thread-20] Cache hit for key cache:28
+[2026-03-27 09:29:56] [INFO] [auth-service] [thread-14] Cache hit for key cache:10
+[2026-03-27 09:30:01] [INFO] [db-connector] [thread-1] Scheduled job completed
+[2026-03-27 09:30:06] [DEBUG] [notification-service] [thread-14] Response sent with status 200
+[2026-03-27 09:30:11] [DEBUG] [payment-service] [thread-4] DB query executed in 989ms
+[2026-03-27 09:30:16] [INFO] [notification-service] [thread-18] User user_2773 authenticated
+[2026-03-27 09:30:21] [DEBUG] [db-connector] [thread-10] Cache hit for key cache:33
+[2026-03-27 09:30:26] [INFO] [payment-service] [thread-9] Scheduled job completed
+[2026-03-27 09:30:31] [WARN] [db-connector] [thread-13] User user_5364 authenticated
+[2026-03-27 09:30:36] [INFO] [auth-service] [thread-7] Scheduled job completed
+[2026-03-27 09:30:41] [DEBUG] [payment-service] [thread-7] Cache hit for key cache:45
+[2026-03-27 09:30:46] [INFO] [api-gateway] [thread-10] User user_6187 authenticated
+[2026-03-27 09:30:51] [DEBUG] [auth-service] [thread-16] DB query executed in 2938ms
+[2026-03-27 09:30:56] [INFO] [auth-service] [thread-13] Connection pool size: 13
+[2026-03-27 09:31:01] [DEBUG] [notification-service] [thread-4] DB query executed in 7044ms
+[2026-03-27 09:31:06] [INFO] [db-connector] [thread-4] Scheduled job completed
+[2026-03-27 09:31:11] [INFO] [db-connector] [thread-8] Request processed successfully in 8966ms
+[2026-03-27 09:31:16] [INFO] [api-gateway] [thread-5] Request processed successfully in 5867ms
+[2026-03-27 09:31:21] [INFO] [auth-service] [thread-15] User user_2143 authenticated
+[2026-03-27 09:31:26] [INFO] [db-connector] [thread-10] Scheduled job completed
+[2026-03-27 09:31:31] [DEBUG] [api-gateway] [thread-15] Response sent with status 200
+[2026-03-27 09:31:36] [INFO] [api-gateway] [thread-2] Scheduled job completed
+[2026-03-27 09:31:41] [DEBUG] [notification-service] [thread-14] Scheduled job completed
+[2026-03-27 09:31:46] [INFO] [api-gateway] [thread-1] Scheduled job completed
+[2026-03-27 09:31:51] [INFO] [auth-service] [thread-13] Scheduled job completed
+[2026-03-27 09:31:56] [WARN] [db-connector] [thread-11] Request processed successfully in 6762ms
+[2026-03-27 09:32:01] [WARN] [api-gateway] [thread-16] User user_7106 authenticated
+[2026-03-27 09:32:06] [INFO] [payment-service] [thread-4] Response sent with status 200
+[2026-03-27 09:32:11] [INFO] [auth-service] [thread-11] User user_9691 authenticated
+[2026-03-27 09:32:16] [INFO] [notification-service] [thread-7] Request processed successfully in 5038ms
+[2026-03-27 09:32:21] [INFO] [payment-service] [thread-17] DB query executed in 6478ms
+[2026-03-27 09:32:26] [INFO] [db-connector] [thread-16] User user_6153 authenticated
+[2026-03-27 09:32:31] [INFO] [db-connector] [thread-20] Heartbeat OK
+[2026-03-27 09:32:36] [INFO] [notification-service] [thread-19] Scheduled job completed
+[2026-03-27 09:32:41] [INFO] [notification-service] [thread-2] User user_6613 authenticated
+[2026-03-27 09:32:46] [ERROR] [db-connector] [thread-17] Response sent with status 200
+[2026-03-27 09:32:51] [INFO] [auth-service] [thread-12] Request processed successfully in 517ms
+[2026-03-27 09:32:56] [INFO] [api-gateway] [thread-1] Scheduled job completed
+[2026-03-27 09:33:01] [INFO] [db-connector] [thread-20] DB query executed in 2356ms
+[2026-03-27 09:33:06] [INFO] [auth-service] [thread-16] Response sent with status 200
+[2026-03-27 09:33:11] [WARN] [api-gateway] [thread-16] Connection pool size: 12
+[2026-03-27 09:33:16] [WARN] [notification-service] [thread-15] Response sent with status 200
+[2026-03-27 09:33:21] [WARN] [db-connector] [thread-5] Heartbeat OK
+[2026-03-27 09:33:26] [INFO] [payment-service] [thread-4] Connection pool size: 16
+[2026-03-27 09:33:31] [INFO] [api-gateway] [thread-17] Request processed successfully in 3867ms
+[2026-03-27 09:33:36] [DEBUG] [payment-service] [thread-6] Connection pool size: 16
+[2026-03-27 09:33:41] [INFO] [auth-service] [thread-16] Response sent with status 200
+[2026-03-27 09:33:46] [INFO] [auth-service] [thread-12] Connection pool size: 4
+[2026-03-27 09:33:51] [WARN] [auth-service] [thread-1] Heartbeat OK
+[2026-03-27 09:33:56] [DEBUG] [payment-service] [thread-16] User user_6766 authenticated
+[2026-03-27 09:34:01] [DEBUG] [notification-service] [thread-3] User user_7995 authenticated
+[2026-03-27 09:34:06] [WARN] [auth-service] [thread-5] Cache hit for key cache:53
+[2026-03-27 09:34:11] [DEBUG] [api-gateway] [thread-3] DB query executed in 3700ms
+[2026-03-27 09:34:16] [WARN] [auth-service] [thread-18] Scheduled job completed
+[2026-03-27 09:34:21] [INFO] [auth-service] [thread-12] Heartbeat OK
+[2026-03-27 09:34:26] [WARN] [auth-service] [thread-2] DB query executed in 7952ms
+[2026-03-27 09:34:31] [INFO] [db-connector] [thread-15] Connection pool size: 2
+[2026-03-27 09:34:36] [INFO] [notification-service] [thread-14] Connection pool size: 23
+[2026-03-27 09:34:41] [INFO] [auth-service] [thread-1] DB query executed in 5142ms
+[2026-03-27 09:34:46] [INFO] [notification-service] [thread-3] Response sent with status 200
+[2026-03-27 09:34:51] [DEBUG] [payment-service] [thread-16] Cache hit for key cache:44
+[2026-03-27 09:34:56] [WARN] [auth-service] [thread-5] Cache hit for key cache:44
+[2026-03-27 09:35:01] [DEBUG] [api-gateway] [thread-1] Scheduled job completed
+[2026-03-27 09:35:06] [WARN] [api-gateway] [thread-15] Scheduled job completed
+[2026-03-27 09:35:11] [DEBUG] [api-gateway] [thread-9] Response sent with status 200
+[2026-03-27 09:35:16] [INFO] [api-gateway] [thread-9] Heartbeat OK
+[2026-03-27 09:35:21] [WARN] [db-connector] [thread-2] User user_6960 authenticated
+[2026-03-27 09:35:26] [INFO] [notification-service] [thread-10] Connection pool size: 7
+[2026-03-27 09:35:31] [INFO] [auth-service] [thread-4] Connection pool size: 3
+[2026-03-27 09:35:36] [INFO] [api-gateway] [thread-3] DB query executed in 6171ms
+[2026-03-27 09:35:41] [ERROR] [notification-service] [thread-3] Scheduled job completed
+[2026-03-27 09:35:46] [FATAL] [api-gateway] [thread-4] User user_7410 authenticated
+[2026-03-27 09:35:51] [INFO] [api-gateway] [thread-15] Response sent with status 200
+[2026-03-27 09:35:56] [WARN] [auth-service] [thread-14] Heartbeat OK
+[2026-03-27 09:36:01] [WARN] [notification-service] [thread-8] Scheduled job completed
+[2026-03-27 09:36:06] [DEBUG] [auth-service] [thread-17] Heartbeat OK
+[2026-03-27 09:36:11] [DEBUG] [db-connector] [thread-19] Request processed successfully in 4009ms
+[2026-03-27 09:36:16] [WARN] [notification-service] [thread-9] Response sent with status 200
+[2026-03-27 09:36:21] [INFO] [auth-service] [thread-13] Scheduled job completed
+[2026-03-27 09:36:26] [INFO] [payment-service] [thread-2] Cache hit for key cache:16
+[2026-03-27 09:36:31] [INFO] [payment-service] [thread-4] DB query executed in 3615ms
+[2026-03-27 09:36:36] [INFO] [payment-service] [thread-1] Request processed successfully in 3904ms
+[2026-03-27 09:36:41] [DEBUG] [api-gateway] [thread-11] Heartbeat OK
+[2026-03-27 09:36:46] [INFO] [notification-service] [thread-11] User user_4966 authenticated
+[2026-03-27 09:36:51] [INFO] [auth-service] [thread-10] Heartbeat OK
+[2026-03-27 09:36:56] [INFO] [auth-service] [thread-7] Scheduled job completed
+[2026-03-27 09:37:01] [INFO] [api-gateway] [thread-7] Heartbeat OK
+[2026-03-27 09:37:06] [INFO] [auth-service] [thread-2] Response sent with status 200
+[2026-03-27 09:37:11] [ERROR] [payment-service] [thread-2] Request processed successfully in 6510ms
+[2026-03-27 09:37:16] [INFO] [api-gateway] [thread-13] Request processed successfully in 8117ms
+[2026-03-27 09:37:21] [DEBUG] [db-connector] [thread-19] Heartbeat OK
+[2026-03-27 09:37:26] [INFO] [notification-service] [thread-1] Scheduled job completed
+[2026-03-27 09:37:31] [INFO] [payment-service] [thread-15] Request processed successfully in 4405ms
+[2026-03-27 09:37:36] [INFO] [payment-service] [thread-2] Request processed successfully in 4417ms
+[2026-03-27 09:37:41] [INFO] [notification-service] [thread-1] Connection pool size: 44
+[2026-03-27 09:37:46] [DEBUG] [auth-service] [thread-15] Response sent with status 200
+[2026-03-27 09:37:51] [INFO] [db-connector] [thread-5] Request processed successfully in 5128ms
+[2026-03-27 09:37:56] [INFO] [auth-service] [thread-13] Request processed successfully in 4068ms
+[2026-03-27 09:38:01] [INFO] [api-gateway] [thread-17] Response sent with status 200
+[2026-03-27 09:38:06] [WARN] [payment-service] [thread-9] Cache hit for key cache:6
+[2026-03-27 09:38:11] [ERROR] [db-connector] [thread-4] Request processed successfully in 4977ms
+[2026-03-27 09:38:16] [INFO] [db-connector] [thread-7] Heartbeat OK
+[2026-03-27 09:38:21] [DEBUG] [api-gateway] [thread-1] Scheduled job completed
+[2026-03-27 09:38:26] [ERROR] [db-connector] [thread-9] DB query executed in 5652ms
+[2026-03-27 09:38:31] [INFO] [db-connector] [thread-14] Scheduled job completed
+[2026-03-27 09:38:36] [FATAL] [db-connector] [thread-20] Scheduled job completed
+[2026-03-27 09:38:41] [INFO] [api-gateway] [thread-10] Cache hit for key cache:90
+[2026-03-27 09:38:46] [DEBUG] [db-connector] [thread-4] Cache hit for key cache:96
+[2026-03-27 09:38:51] [WARN] [api-gateway] [thread-20] Request processed successfully in 7305ms
+[2026-03-27 09:38:56] [INFO] [api-gateway] [thread-17] Request processed successfully in 6884ms
+[2026-03-27 09:39:01] [DEBUG] [notification-service] [thread-2] Cache hit for key cache:83
+[2026-03-27 09:39:06] [DEBUG] [db-connector] [thread-19] Request processed successfully in 8736ms
+[2026-03-27 09:39:11] [INFO] [payment-service] [thread-13] Cache hit for key cache:77
+[2026-03-27 09:39:16] [INFO] [auth-service] [thread-5] User user_1190 authenticated
+[2026-03-27 09:39:21] [INFO] [payment-service] [thread-8] Request processed successfully in 388ms
+[2026-03-27 09:39:26] [DEBUG] [notification-service] [thread-6] DB query executed in 5600ms
+[2026-03-27 09:39:31] [DEBUG] [api-gateway] [thread-3] Connection pool size: 17
+[2026-03-27 09:39:36] [DEBUG] [notification-service] [thread-18] DB query executed in 7227ms
+[2026-03-27 09:39:41] [INFO] [api-gateway] [thread-5] Scheduled job completed
+[2026-03-27 09:39:46] [ERROR] [payment-service] [thread-14] Request processed successfully in 3423ms
+[2026-03-27 09:39:51] [ERROR] [db-connector] [thread-4] Heartbeat OK
+[2026-03-27 09:39:56] [INFO] [payment-service] [thread-19] Request processed successfully in 2142ms
+[2026-03-27 09:40:01] [INFO] [api-gateway] [thread-1] Heartbeat OK
+[2026-03-27 09:40:06] [INFO] [db-connector] [thread-2] Connection pool size: 39
+[2026-03-27 09:40:11] [DEBUG] [auth-service] [thread-17] DB query executed in 1049ms
+[2026-03-27 09:40:16] [INFO] [api-gateway] [thread-7] User user_7584 authenticated
+[2026-03-27 09:40:21] [INFO] [db-connector] [thread-17] Connection pool size: 20
+[2026-03-27 09:40:26] [INFO] [db-connector] [thread-3] Connection pool size: 4
+[2026-03-27 09:40:31] [INFO] [auth-service] [thread-17] Cache hit for key cache:43
+[2026-03-27 09:40:36] [WARN] [auth-service] [thread-15] DB query executed in 4096ms
+[2026-03-27 09:40:41] [INFO] [notification-service] [thread-9] Request processed successfully in 3570ms
+[2026-03-27 09:40:46] [DEBUG] [api-gateway] [thread-19] Request processed successfully in 7625ms
+[2026-03-27 09:40:51] [INFO] [notification-service] [thread-12] DB query executed in 649ms
+[2026-03-27 09:40:56] [DEBUG] [notification-service] [thread-20] Response sent with status 200
+[2026-03-27 09:41:01] [INFO] [notification-service] [thread-20] DB query executed in 321ms
+[2026-03-27 09:41:06] [DEBUG] [db-connector] [thread-3] Request processed successfully in 7803ms
+[2026-03-27 09:41:11] [INFO] [payment-service] [thread-13] Cache hit for key cache:30
+[2026-03-27 09:41:16] [INFO] [db-connector] [thread-20] Scheduled job completed
+[2026-03-27 09:41:21] [INFO] [auth-service] [thread-13] Response sent with status 200
+[2026-03-27 09:41:26] [DEBUG] [db-connector] [thread-1] Response sent with status 200
+[2026-03-27 09:41:31] [INFO] [payment-service] [thread-9] Request processed successfully in 5020ms
+[2026-03-27 09:41:36] [ERROR] [db-connector] [thread-20] Request processed successfully in 5043ms
+[2026-03-27 09:41:41] [INFO] [api-gateway] [thread-15] Request processed successfully in 614ms
+[2026-03-27 09:41:46] [INFO] [api-gateway] [thread-2] Cache hit for key cache:81
+[2026-03-27 09:41:51] [DEBUG] [auth-service] [thread-5] Scheduled job completed
+[2026-03-27 09:41:56] [INFO] [payment-service] [thread-7] Heartbeat OK
+[2026-03-27 09:42:01] [INFO] [auth-service] [thread-17] Heartbeat OK
+[2026-03-27 09:42:06] [INFO] [notification-service] [thread-10] Request processed successfully in 2468ms
+[2026-03-27 09:42:11] [WARN] [api-gateway] [thread-7] DB query executed in 3493ms
+[2026-03-27 09:42:16] [INFO] [db-connector] [thread-2] DB query executed in 2424ms
+[2026-03-27 09:42:21] [INFO] [auth-service] [thread-11] Request processed successfully in 2297ms
+[2026-03-27 09:42:26] [WARN] [notification-service] [thread-12] Request processed successfully in 1949ms
+[2026-03-27 09:42:31] [INFO] [auth-service] [thread-15] User user_5518 authenticated
+[2026-03-27 09:42:36] [WARN] [auth-service] [thread-12] Heartbeat OK
+[2026-03-27 09:42:41] [INFO] [auth-service] [thread-13] DB query executed in 308ms
+[2026-03-27 09:42:46] [DEBUG] [db-connector] [thread-10] Heartbeat OK
+[2026-03-27 09:42:51] [WARN] [auth-service] [thread-16] Connection pool size: 24
+[2026-03-27 09:42:56] [INFO] [db-connector] [thread-2] Connection pool size: 12
+[2026-03-27 09:43:01] [DEBUG] [auth-service] [thread-12] User user_6550 authenticated
+[2026-03-27 09:43:06] [ERROR] [payment-service] [thread-17] Connection pool size: 46
+[2026-03-27 09:43:11] [DEBUG] [auth-service] [thread-2] Response sent with status 200
+[2026-03-27 09:43:16] [INFO] [payment-service] [thread-17] Response sent with status 200
+[2026-03-27 09:43:21] [DEBUG] [notification-service] [thread-15] DB query executed in 9010ms
+[2026-03-27 09:43:26] [WARN] [payment-service] [thread-12] Connection pool size: 29
+[2026-03-27 09:43:31] [WARN] [payment-service] [thread-14] Scheduled job completed
+[2026-03-27 09:43:36] [INFO] [payment-service] [thread-15] DB query executed in 5452ms
+[2026-03-27 09:43:41] [INFO] [payment-service] [thread-14] DB query executed in 8082ms
+[2026-03-27 09:43:46] [WARN] [auth-service] [thread-11] Heartbeat OK
+[2026-03-27 09:43:51] [ERROR] [db-connector] [thread-13] Cache hit for key cache:91
+[2026-03-27 09:43:56] [INFO] [api-gateway] [thread-14] Request processed successfully in 4759ms
+[2026-03-27 09:44:01] [DEBUG] [notification-service] [thread-19] Request processed successfully in 7393ms
+[2026-03-27 09:44:06] [WARN] [notification-service] [thread-13] User user_5989 authenticated
+[2026-03-27 09:44:11] [ERROR] [api-gateway] [thread-4] DB query executed in 5811ms
+[2026-03-27 09:44:16] [DEBUG] [payment-service] [thread-11] Cache hit for key cache:79
+[2026-03-27 09:44:21] [INFO] [api-gateway] [thread-6] Request processed successfully in 2674ms
+[2026-03-27 09:44:26] [ERROR] [db-connector] [thread-18] Response sent with status 200
+[2026-03-27 09:44:31] [INFO] [notification-service] [thread-5] Heartbeat OK
+[2026-03-27 09:44:36] [ERROR] [db-connector] [thread-9] Response sent with status 200
+[2026-03-27 09:44:41] [INFO] [payment-service] [thread-9] Heartbeat OK
+[2026-03-27 09:44:46] [INFO] [db-connector] [thread-14] Connection pool size: 1
+[2026-03-27 09:44:51] [INFO] [auth-service] [thread-17] Response sent with status 200
+[2026-03-27 09:44:56] [INFO] [db-connector] [thread-20] Heartbeat OK
+[2026-03-27 09:45:01] [INFO] [api-gateway] [thread-2] User user_4949 authenticated
+[2026-03-27 09:45:06] [DEBUG] [api-gateway] [thread-17] Heartbeat OK
+[2026-03-27 09:45:11] [DEBUG] [payment-service] [thread-9] User user_5403 authenticated
+[2026-03-27 09:45:16] [DEBUG] [auth-service] [thread-6] Connection pool size: 21
+[2026-03-27 09:45:21] [DEBUG] [auth-service] [thread-13] Response sent with status 200
+[2026-03-27 09:45:26] [INFO] [notification-service] [thread-10] Cache hit for key cache:28
+[2026-03-27 09:45:31] [INFO] [api-gateway] [thread-15] DB query executed in 1549ms
+[2026-03-27 09:45:36] [DEBUG] [notification-service] [thread-19] Heartbeat OK
+[2026-03-27 09:45:41] [WARN] [notification-service] [thread-10] Response sent with status 200
+[2026-03-27 09:45:46] [WARN] [api-gateway] [thread-4] Heartbeat OK
+[2026-03-27 09:45:51] [INFO] [notification-service] [thread-20] Cache hit for key cache:24
+[2026-03-27 09:45:56] [ERROR] [db-connector] [thread-6] Connection pool size: 42
+[2026-03-27 09:46:01] [DEBUG] [auth-service] [thread-18] User user_7485 authenticated
+[2026-03-27 09:46:06] [INFO] [payment-service] [thread-4] Connection pool size: 42
+[2026-03-27 09:46:11] [INFO] [auth-service] [thread-6] Heartbeat OK
+[2026-03-27 09:46:16] [DEBUG] [db-connector] [thread-14] User user_7852 authenticated
+[2026-03-27 09:46:21] [INFO] [notification-service] [thread-15] Heartbeat OK
+[2026-03-27 09:46:26] [INFO] [auth-service] [thread-20] Response sent with status 200
+[2026-03-27 09:46:31] [INFO] [api-gateway] [thread-10] Request processed successfully in 952ms
+[2026-03-27 09:46:36] [DEBUG] [auth-service] [thread-10] Request processed successfully in 7809ms
+[2026-03-27 09:46:41] [ERROR] [api-gateway] [thread-1] Request processed successfully in 3784ms
+[2026-03-27 09:46:46] [INFO] [notification-service] [thread-14] Scheduled job completed
+[2026-03-27 09:46:51] [DEBUG] [api-gateway] [thread-16] Scheduled job completed
+[2026-03-27 09:46:56] [WARN] [db-connector] [thread-16] User user_9639 authenticated
+[2026-03-27 09:47:01] [WARN] [db-connector] [thread-20] DB query executed in 523ms
+[2026-03-27 09:47:06] [DEBUG] [payment-service] [thread-13] DB query executed in 9478ms
+[2026-03-27 09:47:11] [INFO] [payment-service] [thread-11] Cache hit for key cache:39
+[2026-03-27 09:47:16] [INFO] [db-connector] [thread-6] Response sent with status 200
+[2026-03-27 09:47:21] [DEBUG] [notification-service] [thread-13] DB query executed in 6818ms
+[2026-03-27 09:47:26] [INFO] [api-gateway] [thread-7] Connection pool size: 22
+[2026-03-27 09:47:31] [ERROR] [auth-service] [thread-10] Heartbeat OK
+[2026-03-27 09:47:36] [WARN] [api-gateway] [thread-8] Scheduled job completed
+[2026-03-27 09:47:41] [WARN] [payment-service] [thread-17] User user_3728 authenticated
+[2026-03-27 09:47:46] [DEBUG] [api-gateway] [thread-4] Request processed successfully in 1113ms
+[2026-03-27 09:47:51] [DEBUG] [notification-service] [thread-11] User user_3309 authenticated
+[2026-03-27 09:47:56] [INFO] [db-connector] [thread-15] Heartbeat OK
+[2026-03-27 09:48:01] [DEBUG] [auth-service] [thread-19] Request processed successfully in 2937ms
+[2026-03-27 09:48:06] [ERROR] [payment-service] [thread-10] Connection pool size: 44
+[2026-03-27 09:48:11] [INFO] [db-connector] [thread-16] Connection pool size: 7
+[2026-03-27 09:48:16] [INFO] [notification-service] [thread-2] Connection pool size: 29
+[2026-03-27 09:48:21] [DEBUG] [db-connector] [thread-6] Heartbeat OK
+[2026-03-27 09:48:26] [DEBUG] [api-gateway] [thread-18] Request processed successfully in 2961ms
+[2026-03-27 09:48:31] [WARN] [db-connector] [thread-10] Scheduled job completed
+[2026-03-27 09:48:36] [INFO] [auth-service] [thread-1] Connection pool size: 30
+[2026-03-27 09:48:41] [INFO] [notification-service] [thread-4] User user_6519 authenticated
+[2026-03-27 09:48:46] [INFO] [notification-service] [thread-2] User user_4161 authenticated
+[2026-03-27 09:48:51] [DEBUG] [db-connector] [thread-10] Connection pool size: 26
+[2026-03-27 09:48:56] [INFO] [notification-service] [thread-5] Heartbeat OK
+[2026-03-27 09:49:01] [INFO] [notification-service] [thread-2] User user_1293 authenticated
+[2026-03-27 09:49:06] [DEBUG] [auth-service] [thread-3] Scheduled job completed
+[2026-03-27 09:49:11] [FATAL] [auth-service] [thread-18] Heartbeat OK
+[2026-03-27 09:49:16] [DEBUG] [auth-service] [thread-6] Scheduled job completed
+[2026-03-27 09:49:21] [DEBUG] [payment-service] [thread-9] Connection pool size: 2
+[2026-03-27 09:49:26] [DEBUG] [payment-service] [thread-2] DB query executed in 8486ms
+[2026-03-27 09:49:31] [INFO] [api-gateway] [thread-18] Connection pool size: 8
+[2026-03-27 09:49:36] [INFO] [db-connector] [thread-18] User user_4517 authenticated
+[2026-03-27 09:49:41] [INFO] [notification-service] [thread-6] Heartbeat OK
+[2026-03-27 09:49:46] [WARN] [db-connector] [thread-2] DB query executed in 1313ms
+[2026-03-27 09:49:51] [INFO] [payment-service] [thread-9] Heartbeat OK
+[2026-03-27 09:49:56] [INFO] [notification-service] [thread-17] Connection pool size: 31
+[2026-03-27 09:50:01] [DEBUG] [api-gateway] [thread-17] Response sent with status 200
+[2026-03-27 09:50:06] [DEBUG] [payment-service] [thread-16] DB query executed in 9069ms
+[2026-03-27 09:50:11] [WARN] [payment-service] [thread-9] Connection pool size: 27
+[2026-03-27 09:50:16] [INFO] [db-connector] [thread-1] Heartbeat OK
+[2026-03-27 09:50:21] [ERROR] [notification-service] [thread-7] Connection pool size: 48
+[2026-03-27 09:50:26] [FATAL] [api-gateway] [thread-11] DB query executed in 753ms
+[2026-03-27 09:50:31] [INFO] [api-gateway] [thread-2] Heartbeat OK
+[2026-03-27 09:50:36] [INFO] [payment-service] [thread-12] Connection pool size: 49
+[2026-03-27 09:50:41] [INFO] [notification-service] [thread-14] User user_3086 authenticated
+[2026-03-27 09:50:46] [DEBUG] [auth-service] [thread-5] Cache hit for key cache:77
+[2026-03-27 09:50:51] [INFO] [db-connector] [thread-7] Heartbeat OK
+[2026-03-27 09:50:56] [INFO] [db-connector] [thread-18] User user_3607 authenticated
+[2026-03-27 09:51:01] [DEBUG] [payment-service] [thread-14] DB query executed in 3315ms
+[2026-03-27 09:51:06] [DEBUG] [api-gateway] [thread-20] DB query executed in 8796ms
+[2026-03-27 09:51:11] [WARN] [notification-service] [thread-17] Heartbeat OK
+[2026-03-27 09:51:16] [WARN] [notification-service] [thread-19] Request processed successfully in 9158ms
+[2026-03-27 09:51:21] [DEBUG] [api-gateway] [thread-17] Scheduled job completed
+[2026-03-27 09:51:26] [WARN] [auth-service] [thread-16] User user_1991 authenticated
+[2026-03-27 09:51:31] [INFO] [api-gateway] [thread-15] DB query executed in 2040ms
+[2026-03-27 09:51:36] [INFO] [notification-service] [thread-16] Heartbeat OK
+[2026-03-27 09:51:41] [INFO] [notification-service] [thread-10] Request processed successfully in 4393ms
+[2026-03-27 09:51:46] [DEBUG] [db-connector] [thread-7] Heartbeat OK
+[2026-03-27 09:51:51] [WARN] [db-connector] [thread-4] Connection pool size: 46
+[2026-03-27 09:51:56] [INFO] [auth-service] [thread-6] Response sent with status 200
+[2026-03-27 09:52:01] [INFO] [payment-service] [thread-15] Response sent with status 200
+[2026-03-27 09:52:06] [ERROR] [db-connector] [thread-15] Connection pool size: 45
+[2026-03-27 09:52:11] [DEBUG] [notification-service] [thread-18] Scheduled job completed
+[2026-03-27 09:52:16] [INFO] [api-gateway] [thread-1] Heartbeat OK
+[2026-03-27 09:52:21] [WARN] [db-connector] [thread-15] Response sent with status 200
+[2026-03-27 09:52:26] [INFO] [notification-service] [thread-7] DB query executed in 8298ms
+[2026-03-27 09:52:31] [INFO] [db-connector] [thread-1] Cache hit for key cache:93
+[2026-03-27 09:52:36] [DEBUG] [api-gateway] [thread-17] Cache hit for key cache:60
+[2026-03-27 09:52:41] [WARN] [api-gateway] [thread-9] Scheduled job completed
+[2026-03-27 09:52:46] [INFO] [payment-service] [thread-6] Heartbeat OK
+[2026-03-27 09:52:51] [WARN] [api-gateway] [thread-7] Scheduled job completed
+[2026-03-27 09:52:56] [DEBUG] [auth-service] [thread-1] Cache hit for key cache:58
+[2026-03-27 09:53:01] [INFO] [db-connector] [thread-12] Heartbeat OK
+[2026-03-27 09:53:06] [INFO] [auth-service] [thread-17] Cache hit for key cache:67
+[2026-03-27 09:53:11] [WARN] [payment-service] [thread-3] User user_5112 authenticated
+[2026-03-27 09:53:16] [INFO] [auth-service] [thread-15] Response sent with status 200
+[2026-03-27 09:53:21] [ERROR] [db-connector] [thread-14] Response sent with status 200
+[2026-03-27 09:53:26] [WARN] [api-gateway] [thread-3] Cache hit for key cache:36
+[2026-03-27 09:53:31] [INFO] [db-connector] [thread-20] User user_5272 authenticated
+[2026-03-27 09:53:36] [INFO] [notification-service] [thread-6] Scheduled job completed
+[2026-03-27 09:53:41] [WARN] [api-gateway] [thread-10] Response sent with status 200
+[2026-03-27 09:53:46] [DEBUG] [db-connector] [thread-19] Connection pool size: 22
+[2026-03-27 09:53:51] [FATAL] [notification-service] [thread-17] Response sent with status 200
+[2026-03-27 09:53:56] [INFO] [payment-service] [thread-20] User user_7141 authenticated
+[2026-03-27 09:54:01] [DEBUG] [notification-service] [thread-1] User user_3390 authenticated
+[2026-03-27 09:54:06] [INFO] [api-gateway] [thread-1] DB query executed in 3778ms
+[2026-03-27 09:54:11] [DEBUG] [notification-service] [thread-2] DB query executed in 272ms
+[2026-03-27 09:54:16] [INFO] [notification-service] [thread-8] Response sent with status 200
+[2026-03-27 09:54:21] [INFO] [api-gateway] [thread-6] Connection pool size: 12
+[2026-03-27 09:54:26] [INFO] [payment-service] [thread-14] Connection pool size: 38
+[2026-03-27 09:54:31] [ERROR] [payment-service] [thread-5] Request processed successfully in 1758ms
+[2026-03-27 09:54:36] [ERROR] [payment-service] [thread-4] DB query executed in 3082ms
+[2026-03-27 09:54:41] [INFO] [notification-service] [thread-1] Request processed successfully in 1656ms
+[2026-03-27 09:54:46] [ERROR] [payment-service] [thread-6] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:54:51] [FATAL] [payment-service] [thread-12] ERROR: SSL handshake failed with peer 10.0.164.171
+[2026-03-27 09:54:56] [ERROR] [payment-service] [thread-15] FATAL: Thread pool exhausted — rejecting requests
+[2026-03-27 09:55:01] [ERROR] [notification-service] [thread-4] ERROR: SSL handshake failed with peer 10.0.58.252
+[2026-03-27 09:55:06] [ERROR] [db-connector] [thread-9] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:55:11] [FATAL] [notification-service] [thread-14] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:55:16] [FATAL] [notification-service] [thread-12] ERROR: Connection refused to database host 10.0.4.166
+[2026-03-27 09:55:21] [FATAL] [notification-service] [thread-16] ERROR: Connection refused to database host 10.0.27.182
+[2026-03-27 09:55:26] [FATAL] [auth-service] [thread-9] FATAL: Out of memory — heap space exhausted
+[2026-03-27 09:55:31] [ERROR] [api-gateway] [thread-9] ERROR: Timeout after 4665ms waiting for upstream
+[2026-03-27 09:55:36] [ERROR] [notification-service] [thread-12] FATAL: Disk I/O error on /var/data
+[2026-03-27 09:55:41] [FATAL] [api-gateway] [thread-17] FATAL: Unhandled exception — service shutting down
+[2026-03-27 09:55:46] [ERROR] [db-connector] [thread-1] ERROR: SSL handshake failed with peer 10.0.222.31
+[2026-03-27 09:55:51] [INFO] [db-connector] [thread-15] FATAL: Out of memory — heap space exhausted
+[2026-03-27 09:55:56] [WARN] [auth-service] [thread-18] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:56:01] [INFO] [auth-service] [thread-5] ERROR: Timeout after 8359ms waiting for upstream
+[2026-03-27 09:56:06] [FATAL] [notification-service] [thread-8] ERROR: Response status 500 from downstream
+[2026-03-27 09:56:11] [FATAL] [auth-service] [thread-5] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:56:16] [ERROR] [payment-service] [thread-15] ERROR: Connection refused to database host 10.0.231.132
+[2026-03-27 09:56:21] [ERROR] [auth-service] [thread-19] ERROR: Connection refused to database host 10.0.183.204
+[2026-03-27 09:56:26] [INFO] [auth-service] [thread-3] FATAL: Out of memory — heap space exhausted
+[2026-03-27 09:56:31] [ERROR] [db-connector] [thread-10] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:56:36] [FATAL] [auth-service] [thread-16] FATAL: Out of memory — heap space exhausted
+[2026-03-27 09:56:41] [FATAL] [api-gateway] [thread-4] ERROR: Response status 500 from downstream
+[2026-03-27 09:56:46] [INFO] [auth-service] [thread-18] FATAL: Thread pool exhausted — rejecting requests
+[2026-03-27 09:56:51] [ERROR] [notification-service] [thread-14] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:56:56] [FATAL] [payment-service] [thread-7] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:57:01] [FATAL] [auth-service] [thread-14] ERROR: Response status 500 from downstream
+[2026-03-27 09:57:06] [FATAL] [db-connector] [thread-13] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:57:11] [ERROR] [api-gateway] [thread-3] ERROR: Response status 500 from downstream
+[2026-03-27 09:57:16] [FATAL] [payment-service] [thread-9] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:57:21] [FATAL] [db-connector] [thread-1] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:57:26] [ERROR] [payment-service] [thread-10] ERROR: Connection refused to database host 10.0.204.221
+[2026-03-27 09:57:31] [FATAL] [db-connector] [thread-1] ERROR: Response status 500 from downstream
+[2026-03-27 09:57:36] [FATAL] [notification-service] [thread-3] ERROR: Connection refused to database host 10.0.97.33
+[2026-03-27 09:57:41] [INFO] [payment-service] [thread-10] ERROR: Timeout after 4322ms waiting for upstream
+[2026-03-27 09:57:46] [FATAL] [auth-service] [thread-8] FATAL: Out of memory — heap space exhausted
+[2026-03-27 09:57:51] [ERROR] [payment-service] [thread-2] ERROR: Connection refused to database host 10.0.114.178
+[2026-03-27 09:57:56] [FATAL] [api-gateway] [thread-6] ERROR: Response status 500 from downstream
+[2026-03-27 09:58:01] [FATAL] [api-gateway] [thread-7] FATAL: Thread pool exhausted — rejecting requests
+[2026-03-27 09:58:06] [ERROR] [db-connector] [thread-12] ERROR: Timeout after 3667ms waiting for upstream
+[2026-03-27 09:58:11] [WARN] [api-gateway] [thread-4] FATAL: Unhandled exception — service shutting down
+[2026-03-27 09:58:16] [ERROR] [payment-service] [thread-18] ERROR: Timeout after 9971ms waiting for upstream
+[2026-03-27 09:58:21] [FATAL] [notification-service] [thread-13] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:58:26] [FATAL] [db-connector] [thread-12] ERROR: SSL handshake failed with peer 10.0.163.124
+[2026-03-27 09:58:31] [ERROR] [notification-service] [thread-16] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:58:36] [ERROR] [payment-service] [thread-13] ERROR: Timeout after 9562ms waiting for upstream
+[2026-03-27 09:58:41] [ERROR] [auth-service] [thread-17] FATAL: Thread pool exhausted — rejecting requests
+[2026-03-27 09:58:46] [ERROR] [payment-service] [thread-10] ERROR: Response status 500 from downstream
+[2026-03-27 09:58:51] [INFO] [db-connector] [thread-13] FATAL: Unhandled exception — service shutting down
+[2026-03-27 09:58:56] [ERROR] [db-connector] [thread-15] FATAL: Unhandled exception — service shutting down
+[2026-03-27 09:59:01] [ERROR] [payment-service] [thread-17] FATAL: Disk I/O error on /var/data
+[2026-03-27 09:59:06] [ERROR] [auth-service] [thread-14] ERROR: Response status 500 from downstream
+[2026-03-27 09:59:11] [FATAL] [api-gateway] [thread-1] FATAL: Thread pool exhausted — rejecting requests
+[2026-03-27 09:59:16] [ERROR] [db-connector] [thread-8] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:59:21] [FATAL] [auth-service] [thread-8] ERROR: Connection refused to database host 10.0.90.140
+[2026-03-27 09:59:26] [ERROR] [auth-service] [thread-12] ERROR: SSL handshake failed with peer 10.0.51.38
+[2026-03-27 09:59:31] [INFO] [notification-service] [thread-14] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:59:36] [ERROR] [payment-service] [thread-18] ERROR: SSL handshake failed with peer 10.0.219.3
+[2026-03-27 09:59:41] [ERROR] [db-connector] [thread-15] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 09:59:46] [ERROR] [notification-service] [thread-20] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 09:59:51] [INFO] [api-gateway] [thread-1] ERROR: Timeout after 1529ms waiting for upstream
+[2026-03-27 09:59:56] [FATAL] [payment-service] [thread-19] ERROR: Response status 500 from downstream
+[2026-03-27 10:00:01] [ERROR] [api-gateway] [thread-19] ERROR: Response status 500 from downstream
+[2026-03-27 10:00:06] [ERROR] [payment-service] [thread-4] FATAL: Unhandled exception — service shutting down
+[2026-03-27 10:00:11] [ERROR] [api-gateway] [thread-11] ERROR: Response status 500 from downstream
+[2026-03-27 10:00:16] [ERROR] [db-connector] [thread-11] ERROR: Response status 500 from downstream
+[2026-03-27 10:00:21] [ERROR] [payment-service] [thread-10] FATAL: Disk I/O error on /var/data
+[2026-03-27 10:00:26] [DEBUG] [db-connector] [thread-4] FATAL: Thread pool exhausted — rejecting requests
+[2026-03-27 10:00:31] [ERROR] [api-gateway] [thread-2] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 10:00:36] [ERROR] [notification-service] [thread-2] ERROR: SSL handshake failed with peer 10.0.108.174
+[2026-03-27 10:00:41] [ERROR] [auth-service] [thread-18] FATAL: Out of memory — heap space exhausted
+[2026-03-27 10:00:46] [ERROR] [db-connector] [thread-8] FATAL: Unhandled exception — service shutting down
+[2026-03-27 10:00:51] [FATAL] [api-gateway] [thread-19] FATAL: Unhandled exception — service shutting down
+[2026-03-27 10:00:56] [ERROR] [db-connector] [thread-20] ERROR: Connection refused to database host 10.0.168.4
+[2026-03-27 10:01:01] [WARN] [db-connector] [thread-1] FATAL: Disk I/O error on /var/data
+[2026-03-27 10:01:06] [FATAL] [auth-service] [thread-17] ERROR: SSL handshake failed with peer 10.0.43.118
+[2026-03-27 10:01:11] [ERROR] [db-connector] [thread-3] FATAL: Disk I/O error on /var/data
+[2026-03-27 10:01:16] [FATAL] [payment-service] [thread-1] FATAL: Disk I/O error on /var/data
+[2026-03-27 10:01:21] [ERROR] [payment-service] [thread-10] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 10:01:26] [FATAL] [api-gateway] [thread-19] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 10:01:31] [DEBUG] [db-connector] [thread-12] FATAL: Unhandled exception — service shutting down
+[2026-03-27 10:01:36] [FATAL] [db-connector] [thread-5] FATAL: Thread pool exhausted — rejecting requests
+[2026-03-27 10:01:41] [ERROR] [auth-service] [thread-17] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 10:01:46] [INFO] [auth-service] [thread-2] FATAL: Out of memory — heap space exhausted
+[2026-03-27 10:01:51] [ERROR] [db-connector] [thread-14] ERROR: Timeout after 5826ms waiting for upstream
+[2026-03-27 10:01:56] [ERROR] [payment-service] [thread-18] ERROR: Response status 500 from downstream
+[2026-03-27 10:02:01] [FATAL] [auth-service] [thread-10] ERROR: Timeout after 9802ms waiting for upstream
+[2026-03-27 10:02:06] [ERROR] [db-connector] [thread-2] ERROR: Timeout after 7803ms waiting for upstream
+[2026-03-27 10:02:11] [ERROR] [api-gateway] [thread-16] ERROR: Connection refused to database host 10.0.167.40
+[2026-03-27 10:02:16] [FATAL] [payment-service] [thread-14] FATAL: Unhandled exception — service shutting down
+[2026-03-27 10:02:21] [INFO] [api-gateway] [thread-18] ERROR: NullPointerException in PaymentProcessor.java:142
+[2026-03-27 10:02:26] [WARN] [auth-service] [thread-6] FATAL: Out of memory — heap space exhausted
+[2026-03-27 10:02:31] [ERROR] [notification-service] [thread-10] ERROR: Timeout after 7322ms waiting for upstream
+[2026-03-27 10:02:36] [ERROR] [api-gateway] [thread-4] ERROR: Circuit breaker OPEN for auth-service
+[2026-03-27 10:02:41] [ERROR] [auth-service] [thread-20] FATAL: Out of memory — heap space exhausted
+[2026-03-27 10:02:46] [INFO] [notification-service] [thread-8] FATAL: Out of memory — heap space exhausted
+[2026-03-27 10:02:51] [WARN] [api-gateway] [thread-12] ERROR: SSL handshake failed with peer 10.0.63.52
+[2026-03-27 10:02:56] [FATAL] [auth-service] [thread-17] ERROR: SSL handshake failed with peer 10.0.233.102
+[2026-03-27 10:03:01] [WARN] [auth-service] [thread-17] ERROR: Response status 500 from downstream
